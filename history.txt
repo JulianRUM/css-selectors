@@ -1,0 +1,64 @@
+    1  git--version
+    2  git --version
+    3  git --version ejecutado
+    4  git --version ejecutado
+    5  node --version
+    6  npm --version
+    7  npx --version
+    8  git config -global user.name "julian-ux227"
+    9  git config --global user.name "julian-ux227"
+   10  git confit --global user.email "jurenamarte34@gmail"
+   11  git config --global user.email "jurenamarte34@gmail"
+   12  git config --global init.defaultBranch main
+   13  git config --global --list
+   14  npm install yargs
+   15  Sololearn..
+   16  git clone https://github.com/Julian-ux227/Sololearn-Course.git
+   17  git add . 
+   18  Practica #1
+   19  'Practica #1'
+   20  pwd
+   21  clear
+   22  history
+   23  clear
+   24  ls
+   25  history
+   26  pwd
+   27  is
+   28  ls
+   29  clear
+   30  jobs
+   31  ping
+   32  hostname
+   33  df
+   34  gh
+   35  gh auth login --web
+   36  gh auth login --web
+   37  clear
+   38  cd
+   39  cd "gh-cli-test"
+   40  git init .
+   41  gh repo create
+   42  gh repo create
+   43  git add .
+   44  git commit -m "selectors"
+   45  git pus --set-upstream origin main
+   46  git push --set-upstream origin main
+   47  git add .
+   48  git commit -m "selectors"
+   49  git push
+   50  git add .
+   51  git commit -m "index enlazado"
+   52  git push
+   53  git push
+   54  git add .
+   55  git commit -m "selector por nombre de etiqueta"
+   56  git push
+   57  git add .
+   58  git commit -m "selector por ID"
+   59  git push
+   60  git push
+   61  git add .
+   62  git commit -m "Finish"
+   63  git push
+   64  history > history.txt
